@@ -1,0 +1,101 @@
+# needs to be empty to work with offical reveal.js
+#+REVEAL_ROOT:
+
+# insert org mode author information
+#+AUTHOR: Albin Stigö
+#+EMAIL: albin@sm6wjm.se
+#+DATE: 2021-05-02
+#+REVEAL_HLEVEL: 2
+#+REVEAL_PLUGINS: (notes highlight)
+#+OPTIONS: toc:nil
+
+* Vem är jag
+** Medicinsk "karriär"
+- Läkare 2013
+- KBU (AT) i Aarhus
+  - Ortopedi
+  - Allmänmedicin
+- Intro i anestesi 2014
+- Allmänläkare i Norge 2015
+- ST anestesi 2016
+- Specialist 2020
+** Forskning
+ - Research Assistant. Department of Anesthesiology and Intensive
+   Care. Aarhus University Hospital and Aarhus University School of
+   Engineering, Denmark.
+- Research assistant. Laboratory of Space Medicine and Space
+  Pharmacology. Magdeburg University Clinic, Germany.
+- Visiting researcher. Brain Institute Bioinformatics group. Federal
+  University of Rio Grande do Norte, Brazil.
+** Undervisning
+- Top of the line 2019 (Sedline / EEG)
+* Danmark
+#+begin_notes
+Bodde i Danmark 2005-2015
+#+end_notes
+** Aarhus
+:PROPERTIES:
+:reveal_background: ./images/aarhus_03_map.png
+:reveal_background_trans: slide
+:END:
+
+** Åboulevarden
+:PROPERTIES:
+:reveal_background: ./images/aarhus_01_kanal.jpg
+:reveal_background_trans: slide
+:END:
+
+#+begin_notes
+Some more notes
+#+end_notes
+** Campus
+:PROPERTIES:
+:reveal_background: ./images/aarhus_02_campus.jpg
+:reveal_background_trans: slide
+:END:
+#+begin_notes
+Ca 40.000 studenter varav 12 procent är internationella studenter.
+#+end_notes
+
+* Brasilien
+- Portugisiska
+- 60% av amazonas regnskog
+  #+begin_notes
+  Största landet i Sydamerika. 4 tidszoner. Brasilia är huvudstad.
+  Largest population of Japanese people outside of Japan.
+  São Paulo, Brazil has the largest fleet of helicopters in the world, with more than 410 aircraft and 260 helipads.
+  #+end_notes
+** Natal
+:PROPERTIES:
+:reveal_background: ./images/natal_02_on_map.png
+:reveal_background_trans: slide
+:END:
+
+#+begin_notes
+
+#+end_notes
+
+** Ponta Negra
+:PROPERTIES:
+:reveal_background: ./images/natal_01_ponta_negra.jpg
+:reveal_background_trans: slide
+:END:
+** Favela
+:PROPERTIES:
+:reveal_background: ./images/natal_03_favela.jpg
+:reveal_background_trans: slide
+:END:
+* "Senior software engineer"
+- På heltid sedan 2022
+** Plejd
+#+ATTR_HTML: :width 50%
+[[./images/plejd_01.png]]
+** Qamcom
+:PROPERTIES:
+:reveal_background: ./images/qamcom_01.webp
+:reveal_background_trans: slide
+:END:
+** Sensrad
+#+ATTR_HTML: :width 75%
+[[./images/sensrad_logo.svg]]
+

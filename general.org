@@ -1,0 +1,19 @@
+* How to inline image
+#+ATTR_HTML: :width 500px
+[[./images/aarhus_01_kanal.jpg]]
+
+C-c C-x C-v (org-toggle-inline-images)
+
+* General talk ideas
+** Focus on idea
+1. Limit to one idea. Context share examples make it vivid
+2. Give your listener a reason to care.
+3. Build your idea piece by piece
+
+** Secrets
+1. Don't give speech. Have a conversation with the audience.
+2. Words, voice tone, body language
+
+* Ideas
+**  Code in browser
+** Video
