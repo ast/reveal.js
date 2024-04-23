@@ -38,15 +38,16 @@ Bodde i Danmark 2005-2015
 :reveal_background: ./images/aarhus_03_map.png
 :reveal_background_trans: slide
 :END:
-
+#+begin_notes
+Ca 330.000 (Köbenhavn ca 602.000)
+#+end_notes
 ** Åboulevarden
 :PROPERTIES:
 :reveal_background: ./images/aarhus_01_kanal.jpg
 :reveal_background_trans: slide
 :END:
-
 #+begin_notes
-Some more notes
+Fin stad.
 #+end_notes
 ** Campus
 :PROPERTIES:
@@ -56,6 +57,11 @@ Some more notes
 #+begin_notes
 Ca 40.000 studenter varav 12 procent är internationella studenter.
 #+end_notes
+** Skejby
+:PROPERTIES:
+:reveal_background: ./images/aarhus_03_skejby.jpg
+:reveal_background_trans: slide
+:END:
 
 * Brasilien
 - Portugisiska
@@ -70,11 +76,9 @@ Ca 40.000 studenter varav 12 procent är internationella studenter.
 :reveal_background: ./images/natal_02_on_map.png
 :reveal_background_trans: slide
 :END:
-
 #+begin_notes
 
 #+end_notes
-
 ** Ponta Negra
 :PROPERTIES:
 :reveal_background: ./images/natal_01_ponta_negra.jpg
@@ -86,16 +90,75 @@ Ca 40.000 studenter varav 12 procent är internationella studenter.
 :reveal_background_trans: slide
 :END:
 * "Senior software engineer"
-- På heltid sedan 2022
+** Början
+#+ATTR_HTML: :width 50%
+[[./images/vectra_286.jpg]]
+** Början
+#+ATTR_HTML: :width 50%
+[[./images/qbasic_4.5.png]]
+** Amatörradio
+#+ATTR_HTML: :width 50%
+[[./images/qtc_01.jpeg]]
+#+begin_notes
+Har förberett tre föreläsningar om amatörradio.
+#+end_notes
+** Diagnosekoder.dk
+#+ATTR_HTML: :width 75%
+[[./images/diagnosekoder_01.png]]
+** Instruksen.dk
+#+ATTR_HTML: :height 25% 
+[[./images/instruksen_01.jpg]]
+#+begin_notes
+PM.
+Misslyckades på grund av politik.
+#+end_notes
+** Ugeskrift for Læger
+#+ATTR_HTML: :height 25% 
+[[./images/ufl_02.jpeg]]
 ** Plejd
 #+ATTR_HTML: :width 50%
 [[./images/plejd_01.png]]
+#+begin_notes
+Mens jag jobbade på SU under ST.
+Tidigare pluspol. Började på 20%. Blev till plejd. Kul att följa hur det växt.
+#+end_notes
 ** Qamcom
 :PROPERTIES:
 :reveal_background: ./images/qamcom_01.webp
 :reveal_background_trans: slide
 :END:
+#+begin_notes
+Första heltid utanför vård.
+#+end_notes
+** Qamcom
+- På heltid sedan 2022
+#+begin_notes
+Tre intervjuer.
+#+end_notes
 ** Sensrad
 #+ATTR_HTML: :width 75%
 [[./images/sensrad_logo.svg]]
-
+#+begin_notes
+Illuminati?
+#+end_notes
+** Sensrad
+- Vad gör man?
+- En typisk dag.
+- Handleder
+* Lärdomar
+** Det blir inte alltid som man tänkt
+** Att diskutera med en ingenjör
+- Är som att brottas i leran med en gris.
+  Man blir smutsig och efter ett tag upptäcker man att grisen gillar det.
+** Konsensuskultur
+#+begin_notes
+Hade inte upplevt konsensuskultur tidigare.
+#+end_notes
+** AI
+- Är här för att stanna
+** Bra software
+** Samarbeta med andra områden
+* Framtiden
+** Vill gärna utnyttja dubbelkompetensen.
+* Frågor
+** Nina och Arvid
