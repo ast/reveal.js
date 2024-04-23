@@ -146,6 +146,12 @@ Illuminati?
 - En typisk dag.
 - Handleder
 * Lärdomar
+** Fördelar / nackdelar
+- Stor flexibilitet
+- Inga jourer
+- Inget schema
+- Helger
+- Familjen
 ** Det blir inte alltid som man tänkt
 ** Att diskutera med en ingenjör
 - Är som att brottas i leran med en gris.
@@ -158,6 +164,7 @@ Hade inte upplevt konsensuskultur tidigare.
 - Är här för att stanna
 ** Bra software
 ** Samarbeta med andra områden
+** Använd 2 faktor
 * Framtiden
 ** Vill gärna utnyttja dubbelkompetensen.
 * Frågor
