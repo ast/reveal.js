@@ -10,8 +10,13 @@
 #+OPTIONS: toc:nil
 
 * Vem är jag
+- Vad gör jag här?
+  #+begin_notes
+  Vad gör jag här?
+  Vårdintyg direkt?
+  #+end_notes
 ** Medicinsk "karriär"
-- Läkare 2013
+- Läkare 2013 i Aarhus
 - KBU (AT) i Aarhus
   - Ortopedi
   - Allmänmedicin
@@ -29,9 +34,18 @@
   University of Rio Grande do Norte, Brazil.
 ** Undervisning
 - Top of the line 2019 (Sedline / EEG)
+  #+ATTR_HTML: :width 50%
+  [[./images/emery-n-brown-mit-00.jpg]]
+  #+begin_notes
+Emery N. Brown.  Sedline.  Brown is one of only 19 individuals who has
+been elected to all three branches of the National Academies of
+Sciences, Engineering, and Medicine.
+  #+end_notes
 * Danmark
+- er et dejligt land.
 #+begin_notes
 Bodde i Danmark 2005-2015
+En föreläsningsserie i att räkna på danska.
 #+end_notes
 ** Aarhus
 :PROPERTIES:
@@ -62,7 +76,9 @@ Ca 40.000 studenter varav 12 procent är internationella studenter.
 :reveal_background: ./images/aarhus_03_skejby.jpg
 :reveal_background_trans: slide
 :END:
-
+#+begin_notes
+Två helikopterplattor.
+#+end_notes
 * Brasilien
 - Portugisiska
 - 60% av amazonas regnskog
@@ -105,22 +121,44 @@ Har förberett tre föreläsningar om amatörradio.
 ** Diagnosekoder.dk
 #+ATTR_HTML: :width 75%
 [[./images/diagnosekoder_01.png]]
+#+begin_notes
+Ca 2011.
+I samarbete med Trifork Software.
+På iPad touch.
+Blev till hemsida.
+Används fortfarande.
+#+end_notes
 ** Instruksen.dk
-#+ATTR_HTML: :height 25% 
+#+ATTR_HTML: :height 25%
 [[./images/instruksen_01.jpg]]
 #+begin_notes
-PM.
+Instruker = PM.
 Misslyckades på grund av politik.
 #+end_notes
 ** Ugeskrift for Læger
-#+ATTR_HTML: :height 25% 
+#+ATTR_HTML: :height 25%
 [[./images/ufl_02.jpeg]]
+#+begin_notes
+iOS dvs iPhone iPad, och server.
+Stressigt.
+#+end_notes
 ** Plejd
 #+ATTR_HTML: :width 50%
 [[./images/plejd_01.png]]
 #+begin_notes
+Från Börjar Pluspole. 5-6 killar.
 Mens jag jobbade på SU under ST.
-Tidigare pluspol. Började på 20%. Blev till plejd. Kul att följa hur det växt.
+Började på 20%.
+Blev till Plejd.
+Kul att följa hur det växt.
+#+end_notes
+** Open Source
+- Öppen källkod.
+** Open Source
+[[./images/dependency.png]]
+#+begin_notes
+Daniel Stenberg. Daniel Stenberg erhöll Polhemspriset 2017 för cURL,
+ett programmeringsverktyg för överföring av data.
 #+end_notes
 ** Qamcom
 :PROPERTIES:
@@ -129,11 +167,14 @@ Tidigare pluspol. Började på 20%. Blev till plejd. Kul att följa hur det väx
 :END:
 #+begin_notes
 Första heltid utanför vård.
+Stor internationell ingenjörsfirma.
+SKA (Square Kilometre Array)
 #+end_notes
 ** Qamcom
-- På heltid sedan 2022
+- På heltid sedan 2022.
 #+begin_notes
 Tre intervjuer.
+Var meningen det skulle vara medtech.
 #+end_notes
 ** Sensrad
 #+ATTR_HTML: :width 75%
@@ -146,12 +187,18 @@ Illuminati?
 - En typisk dag.
 - Handleder
 * Lärdomar
-** Fördelar / nackdelar
+** Fördelar
 - Stor flexibilitet
 - Inga jourer
 - Inget schema
 - Helger
 - Familjen
+** Nackdelar
+- Inte söva.
+- Förlorar kompetens.
+- Inget kompledigt.
+- Gemenskapen.
+- Inget stafett.
 ** Det blir inte alltid som man tänkt
 ** Att diskutera med en ingenjör
 - Är som att brottas i leran med en gris.
@@ -162,10 +209,20 @@ Hade inte upplevt konsensuskultur tidigare.
 #+end_notes
 ** AI
 - Är här för att stanna
+  #+begin_notes
+  AI är ett bra hjälpmedel. Vi använder mycket. Kan inte ersätta men
+  ökar inlärningstakten.
+  #+end_notes
 ** Bra software
 ** Samarbeta med andra områden
 ** Använd 2 faktor
+#+begin_notes
+Om ni just har vaknat och vill lära er 1 sak.
+Använd 2FA.
+#+end_notes
 * Framtiden
 ** Vill gärna utnyttja dubbelkompetensen.
-* Frågor
-** Nina och Arvid
+- Är svårare än man skulle tro.
+* Frågor?
+#+ATTR_HTML: :width 75%
+[[./images/arvid_nina.jpeg]]
