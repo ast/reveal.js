@@ -13,7 +13,17 @@
 - Vad gör jag här?
   #+begin_notes
   Vad gör jag här?
-  Vårdintyg direkt?
+  Narkosläkare i Danmark och Sahlgrenska.
+  Specialist i 4 år. Jobbat i två.
+  Jobbar nu inte i vården utan som senior software engineer.
+  #+end_notes
+** Agenda
+- Vad jag gjort.
+- Geografilektion.
+- Vad jag gör nu.
+- Lärdomar.
+  #+begin_notes
+  Ofrivillig geografilektion.
   #+end_notes
 ** Medicinsk "karriär"
 - Läkare 2013 i Aarhus
@@ -43,8 +53,9 @@ Sciences, Engineering, and Medicine.
   #+end_notes
 * Danmark
 - er et dejligt land.
+  [[./images/danish_flag.jpg]]
 #+begin_notes
-Bodde i Danmark 2005-2015
+Jag bodde och arbetade i Aarhus i Danmark 2005-2015
 En föreläsningsserie i att räkna på danska.
 #+end_notes
 ** Aarhus
@@ -53,7 +64,8 @@ En föreläsningsserie i att räkna på danska.
 :reveal_background_trans: slide
 :END:
 #+begin_notes
-Ca 330.000 (Köbenhavn ca 602.000)
+Ca 330.000 (Köpenhamn ca 602.000).
+Klisterkanalen.
 #+end_notes
 ** Åboulevarden
 :PROPERTIES:
@@ -69,7 +81,9 @@ Fin stad.
 :reveal_background_trans: slide
 :END:
 #+begin_notes
+Fint campus mitt i staden. Medicinarhuset. Fredagsbar kl 15.
 Ca 40.000 studenter varav 12 procent är internationella studenter.
+Tankar med öl. Hamnen fick byggas ut.
 #+end_notes
 ** Skejby
 :PROPERTIES:
@@ -77,13 +91,16 @@ Ca 40.000 studenter varav 12 procent är internationella studenter.
 :reveal_background_trans: slide
 :END:
 #+begin_notes
+Aarhus Universitetssjukhus. Tidigare 3 campus. Nu ett.
 Två helikopterplattor.
+Träffade min kommando fru.
 #+end_notes
 * Brasilien
 - Portugisiska
 - 60% av amazonas regnskog
   #+begin_notes
-  Största landet i Sydamerika. 4 tidszoner. Brasilia är huvudstad.
+  Största landet i Sydamerika. 4 tidszoner. Brasilia är huvudstad. Invigd 1960. Innan dess Rio.
+  São Paulo störst = 12milj.
   Largest population of Japanese people outside of Japan.
   São Paulo, Brazil has the largest fleet of helicopters in the world, with more than 410 aircraft and 260 helipads.
   #+end_notes
@@ -105,7 +122,24 @@ Två helikopterplattor.
 :reveal_background: ./images/natal_03_favela.jpg
 :reveal_background_trans: slide
 :END:
+#+begin_notes
+Ett av världens mest ojämlika länder.
+#+end_notes
+** Traumatologi
+:PROPERTIES:
+:reveal_background: ./images/homicide_brasil.webp
+:reveal_background_trans: slide
+:END:
+#+begin_notes
+Nästan 60.000 mord/år.
+#+end_notes
 * "Senior software engineer"
+#+ATTR_HTML: :width 50%
+[[./images/nerd_smoking.jpg]]
+#+begin_notes
+Fem slutsatser från läkarförbundets arbetsmiljöenkät 2022: Nästan 1 av
+3 underläkare funderar på att lämna yrket.
+#+end_notes
 ** Början
 #+ATTR_HTML: :width 50%
 [[./images/vectra_286.jpg]]
@@ -116,6 +150,8 @@ Två helikopterplattor.
 #+ATTR_HTML: :width 50%
 [[./images/qtc_01.jpeg]]
 #+begin_notes
+Är ni nördiga.
+Får för alltid leva med skammen.
 Har förberett tre föreläsningar om amatörradio.
 #+end_notes
 ** Diagnosekoder.dk
@@ -134,31 +170,43 @@ Används fortfarande.
 #+begin_notes
 Instruker = PM.
 Misslyckades på grund av politik.
+Svårigheterna är sällan tekniska.
 #+end_notes
 ** Ugeskrift for Læger
 #+ATTR_HTML: :height 25%
 [[./images/ufl_02.jpeg]]
 #+begin_notes
 iOS dvs iPhone iPad, och server.
-Stressigt.
+Gjorde allt själv, stressigt men lärorikt.
+#+end_notes
+** Open Source
+:PROPERTIES:
+:reveal_background: ./images/github.jpg
+:reveal_background_trans: slide
+:END:
+#+begin_notes
+Öppen källkod.  Alla kan bidraga.  GitHub.  Exempel: Linux, Git,
+OpenOffice. Finns mycket ni använder varje dag som inte inte känner
+till. Inbyggda system. Framför allt innan barn.
+Öppnar dörrar.
+#+end_notes
+** Open Source
+[[./images/dependency.png]]
+#+begin_notes
+Curl används för HTTP.
+Curl = Daniel Stenberg erhöll Polhemspriset 2017 för cURL,
+ett programmeringsverktyg för överföring av data.
 #+end_notes
 ** Plejd
 #+ATTR_HTML: :width 50%
 [[./images/plejd_01.png]]
 #+begin_notes
+Via kompisar.
 Från Börjar Pluspole. 5-6 killar.
 Mens jag jobbade på SU under ST.
 Började på 20%.
 Blev till Plejd.
 Kul att följa hur det växt.
-#+end_notes
-** Open Source
-- Öppen källkod.
-** Open Source
-[[./images/dependency.png]]
-#+begin_notes
-Daniel Stenberg. Daniel Stenberg erhöll Polhemspriset 2017 för cURL,
-ett programmeringsverktyg för överföring av data.
 #+end_notes
 ** Qamcom
 :PROPERTIES:
@@ -166,33 +214,48 @@ ett programmeringsverktyg för överföring av data.
 :reveal_background_trans: slide
 :END:
 #+begin_notes
-Första heltid utanför vård.
-Stor internationell ingenjörsfirma.
-SKA (Square Kilometre Array)
-#+end_notes
-** Qamcom
-- På heltid sedan 2022.
-#+begin_notes
 Tre intervjuer.
 Var meningen det skulle vara medtech.
+Första heltid utanför vård.
+Bara PhD. Jag var specialist.
+Stor internationell ingenjörsfirma.
+SKA (Square Kilometre Array).
+Hasselblad kameror.
+Mycket 5g.
 #+end_notes
 ** Sensrad
 #+ATTR_HTML: :width 75%
 [[./images/sensrad_logo.svg]]
 #+begin_notes
-Illuminati?
+Blev jag rekryterad av illuminati?
+Startup 20 anställda.
+Gör en radar som heter Hugin.
 #+end_notes
-** Sensrad
-- Vad gör man?
-- En typisk dag.
-- Handleder
+** Unlocking the fourth dimension.
+#+REVEAL_HTML: <video width="100%" controls><source src="./images/unlocking.webm" type="video/webm"></video>
+#+begin_notes
+#+end_notes
+** Hugin
+#+ATTR_HTML: :width 75%
+[[./images/hugin_on_car.jpg]]
+#+begin_notes
+#+end_notes
+** Pointcloud
+#+ATTR_HTML: :width 75%RR
+[[./images/pointcloud.jpg]]
+#+begin_notes
+Exakt samma teknik som färgultraljud fast med radiovågor av väldigt
+kort våglängd.
+#+end_notes
 * Lärdomar
+#+ATTR_HTML: :width 75%RR
+[[./images/sleep_pattern.webp]]
 ** Fördelar
-- Stor flexibilitet
-- Inga jourer
-- Inget schema
-- Helger
-- Familjen
+- Stor flexibilitet.
+- Inga jourer.
+- Inget schema.
+- Lediga helger.
+- Familjen.
 ** Nackdelar
 - Inte söva.
 - Förlorar kompetens.
@@ -200,29 +263,35 @@ Illuminati?
 - Gemenskapen.
 - Inget stafett.
 ** Det blir inte alltid som man tänkt
-** Att diskutera med en ingenjör
-- Är som att brottas i leran med en gris.
-  Man blir smutsig och efter ett tag upptäcker man att grisen gillar det.
-** Konsensuskultur
+#+ATTR_HTML: :width 50%
+[[./images/planering.jpg]]
 #+begin_notes
-Hade inte upplevt konsensuskultur tidigare.
+Trodde jag skulle jobba med medtech.
+Känns inte som det gör så mycket nu.
+Samma metoder.
+#+end_notes
+** Att diskutera med en ingenjör
+#+ATTR_HTML: :width 75%
+[[./images/pig_in_mud.jpeg]]
+#+begin_notes
+Satt på ingenjörsskolan i Aarhus:
+Är som att brottas i leran med en gris.  Man blir smutsig och efter
+ett tag upptäcker man att grisen gillar det.
+Samarbeta med krångliga personer. Andra utmaningar.
+Konsensuskultur.
 #+end_notes
 ** AI
 - Är här för att stanna
   #+begin_notes
   AI är ett bra hjälpmedel. Vi använder mycket. Kan inte ersätta men
   ökar inlärningstakten.
+  Även inom medicin.
   #+end_notes
-** Bra software
-** Samarbeta med andra områden
-** Använd 2 faktor
+** Framtiden
 #+begin_notes
-Om ni just har vaknat och vill lära er 1 sak.
-Använd 2FA.
+Tiden med att hantera data manuellt är slut.
+Mer data. Krävs mer avancerade metoder för att skilja signal från brus.
 #+end_notes
-* Framtiden
-** Vill gärna utnyttja dubbelkompetensen.
-- Är svårare än man skulle tro.
 * Frågor?
 #+ATTR_HTML: :width 75%
 [[./images/arvid_nina.jpeg]]
