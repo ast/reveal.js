@@ -12,6 +12,7 @@
 * Vem är jag
 - Vad gör jag här?
   #+begin_notes
+  Har inte gått upp så här tidigt sen jag bytte jobb.
   Vad gör jag här?
   Narkosläkare i Danmark och Sahlgrenska.
   Specialist i 4 år. Jobbat i två.
@@ -47,10 +48,13 @@
   #+ATTR_HTML: :width 50%
   [[./images/emery-n-brown-mit-00.jpg]]
   #+begin_notes
-Emery N. Brown.  Sedline.  Brown is one of only 19 individuals who has
-been elected to all three branches of the National Academies of
-Sciences, Engineering, and Medicine.
+  Undvika burst suppression. Bättre än BIS (nämn Australisk studie.)
+  Emery N. Brown.  Sedline.  Brown is one of only 19 individuals who has
+  been elected to all three branches of the National Academies of
+  Sciences, Engineering, and Medicine.
   #+end_notes
+** EEG
+  [[./images/eeg.jpeg]]
 * Danmark
 - er et dejligt land.
   [[./images/danish_flag.jpg]]
@@ -132,6 +136,8 @@ Ett av världens mest ojämlika länder.
 :END:
 #+begin_notes
 Nästan 60.000 mord/år.
+Trafikdödlighet: 16/100.000 vs 2.2/100.000 i Sverige.
+Mycket motorcyklar i Havaianas och shorts.
 #+end_notes
 * "Senior software engineer"
 #+ATTR_HTML: :width 50%
@@ -186,6 +192,7 @@ Gjorde allt själv, stressigt men lärorikt.
 :END:
 #+begin_notes
 Öppen källkod.  Alla kan bidraga.  GitHub.  Exempel: Linux, Git,
+Stor kapitel.
 OpenOffice. Finns mycket ni använder varje dag som inte inte känner
 till. Inbyggda system. Framför allt innan barn.
 Öppnar dörrar.
@@ -234,11 +241,18 @@ Gör en radar som heter Hugin.
 ** Unlocking the fourth dimension.
 #+REVEAL_HTML: <video width="100%" controls><source src="./images/unlocking.webm" type="video/webm"></video>
 #+begin_notes
+Man blir absolute inte klokare på vad det är.
+Gjord för en viss målgrupp.
 #+end_notes
 ** Hugin
 #+ATTR_HTML: :width 75%
 [[./images/hugin_on_car.jpg]]
 #+begin_notes
+Radar för självkörande bilar. Övervakning.
+Lite om hur man jobbar.
+Jira, Github, Editor, Compiler, Tester CI/CD.
+Mycket möten.
+Framtiden. Sitter redan i Tesla men används inte.
 #+end_notes
 ** Pointcloud
 #+ATTR_HTML: :width 75%RR
@@ -280,6 +294,12 @@ ett tag upptäcker man att grisen gillar det.
 Samarbeta med krångliga personer. Andra utmaningar.
 Konsensuskultur.
 #+end_notes
+** Framtiden
+#+begin_notes
+Allt hänger ihop.
+Tiden med att hantera data manuellt är slut.
+Mer data. Krävs mer avancerade metoder för att skilja signal från brus.
+#+end_notes
 ** AI
 - Är här för att stanna
   #+begin_notes
@@ -287,11 +307,6 @@ Konsensuskultur.
   ökar inlärningstakten.
   Även inom medicin.
   #+end_notes
-** Framtiden
-#+begin_notes
-Tiden med att hantera data manuellt är slut.
-Mer data. Krävs mer avancerade metoder för att skilja signal från brus.
-#+end_notes
 * Frågor?
 #+ATTR_HTML: :width 75%
 [[./images/arvid_nina.jpeg]]
