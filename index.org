@@ -265,9 +265,11 @@ kort våglängd.
 #+ATTR_HTML: :width 75%RR
 [[./images/sleep_pattern.webp]]
 ** Fördelar
+- Kreativ problemlösning.
 - Stor flexibilitet.
 - Inga jourer.
-- Inget schema.
+- Inget schema
+- Mindre stress.
 - Lediga helger.
 - Familjen.
 ** Nackdelar
